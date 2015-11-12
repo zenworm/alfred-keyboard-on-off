@@ -15,6 +15,7 @@ Double click the .alfredworkflow file or drag it to the Workflows screen in Alfr
 ## Usage:
 1. Run the command "kb"
 2. Give it an "on" or "off" argument.
+3. You may be prompted to enter your administrator password because this runs a sudo command.
 
 ## Tweaking
 By default, Keyboard On, Keyboard Off runs a Terminal "say" command to inform you of the state of your built-in keyboard. If this bothers you, simply double click the "Run Script" command in the workflow and delete the "say" lines.
