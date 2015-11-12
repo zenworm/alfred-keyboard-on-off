@@ -18,3 +18,6 @@ Double click the .alfredworkflow file or drag it to the Workflows screen in Alfr
 
 ## Tweaking
 By default, Keyboard On, Keyboard Off runs a Terminal "say" command to inform you of the state of your built-in keyboard. If this bothers you, simply double click the "Run Script" command in the workflow and delete the "say" lines.
+
+## In action...
+![Keyboard On, Keyboard Off in action](https://cloud.githubusercontent.com/assets/89553/11122851/9ad7f866-8922-11e5-8153-e6f35f9e44ac.jpg)
