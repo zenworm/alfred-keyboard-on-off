@@ -12,12 +12,10 @@ It has not been tested with Alfred v1.
 ## Installation:
 Double click the .alfredworkflow file or drag it to the Workflows screen in Alfred Preferences.
 
-## A note of caution for El Capitan users
-It's been reported that unloading the keyboard driver on El Capitan can cause a kernel panic for some users. I'm on El Capitan and this workflow works fine for me, but your mileage may vary. Use this at your own risk.
-
 ## Usage:
 1. Run the command "kb"
 2. Give it an "on" or "off" argument.
+3. When running "kb off" make sure your external keyboard is **unplugged** or it could cause a system crash as OSX will try to turn off BOTH keyboards!
 3. You may be prompted to enter your administrator password because this runs a sudo command.
 
 ## Tweaking
